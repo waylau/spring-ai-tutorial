@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: prod
+  ai:
+    zhipuai:
+      api-key: dd894dafaa5440a6971a57189d76802f.Ln7BH8QC9toRQulY
+      chat:
+        options:
+          model: GLM-4.7-Flash
+    # 在prod环境，Ollama的base-url保留，让它能成功创建Bean
+    ollama:
+      base-url: http://localhost:11434
+  data:
+    redis:
+      host: localhost
+      port: 6379

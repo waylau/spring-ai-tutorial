@@ -1,0 +1,13 @@
+package com.waylau.spring.ai.enterpriseai;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class EnterpriseAiApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
