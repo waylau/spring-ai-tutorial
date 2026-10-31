@@ -75,6 +75,7 @@
 
 如果你喜欢本开源书，也欢迎支持下该书的正式出版物，实体店及各大网店有售。
 
+* [Java+AI全栈工程师](https://class.imooc.com/sale/javaaifullstack)（视频）
 * [《Spring AI开发从入门到实践》](https://waylau.com/about-harmonyos-mobile-application-development-book)（北京大学出版社）
   * [京东](https://item.jd.com/15534218.html)
   * [当当](http://product.dangdang.com/30120316.html)
