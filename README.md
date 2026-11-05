@@ -14,7 +14,7 @@
 
 
 * [《Spring AI开发从入门到实践》简介](https://waylau.com/about-spring-ai-tutorial-book/)
-
+* [人工智能发展与开发范式变革](https://www.imooc.com/article/399875)
 
 ## 技术版本
 
